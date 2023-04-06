@@ -27,7 +27,7 @@ const increase = document.getElementById("increase")
 let headerIndex = 1
 
 const backgroundImages = [
-  `url('https://github.com/SebRobitaille/creative-public/blob/master/hero-background.jpg?raw=true')`,
+  `url('hero-background.jpg')`,
   `url("hero-2.jpeg")`,
   "url('hero-3.jpg')",
 ]
